@@ -1,0 +1,7 @@
+receptor = protein_structures/3CEN.pdbqt
+ligand = ligand_structures/berberinecpds.sdf
+autobox_ligand = ligand_structures/coligand.sdf
+autobox_add = 4.0
+exhaustiveness = 16
+num_modes = 5
+out = berberinecpds_docking_results.sdf
